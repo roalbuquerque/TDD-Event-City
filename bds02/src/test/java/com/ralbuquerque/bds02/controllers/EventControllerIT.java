@@ -1,4 +1,4 @@
-package com.devsuperior.bds02.controllers;
+package com.ralbuquerque.bds02.controllers;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
@@ -15,7 +15,7 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.ResultActions;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.devsuperior.bds02.dto.EventDTO;
+import com.ralbuquerque.bds02.dto.EventDTO;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 @SpringBootTest

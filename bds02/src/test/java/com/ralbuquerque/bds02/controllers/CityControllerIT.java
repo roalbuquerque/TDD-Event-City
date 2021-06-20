@@ -1,4 +1,4 @@
-package com.devsuperior.bds02.controllers;
+package com.ralbuquerque.bds02.controllers;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.delete;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;

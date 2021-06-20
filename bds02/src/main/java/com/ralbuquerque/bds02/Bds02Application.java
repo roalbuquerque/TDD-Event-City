@@ -1,4 +1,4 @@
-package com.devsuperior.bds02;
+package com.ralbuquerque.bds02;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
