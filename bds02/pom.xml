@@ -8,7 +8,7 @@
 		<version>2.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperior</groupId>
+	<groupId>com.ralbuquerque</groupId>
 	<artifactId>bds02</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bds02</name>
