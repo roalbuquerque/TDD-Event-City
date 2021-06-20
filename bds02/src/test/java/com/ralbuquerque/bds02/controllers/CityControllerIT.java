@@ -47,7 +47,6 @@ public class CityControllerIT {
 
 	@Test
 	public void findAllShouldReturnAllResourcesSortedByName() throws Exception {
-		
 		ResultActions result =
 				mockMvc.perform(get("/cities")
 					.contentType(MediaType.APPLICATION_JSON));
