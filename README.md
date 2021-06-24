@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O "TDD - Events and Cities" é um projeto de conclusão do módulo de "fundamentos de testes automatizados" organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+O "TDD - Events and Cities" é um projeto de conclusão do módulo de "fundamentos de testes automatizados" organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
 O projeto backend consiste em algumas entities, DTO's e de alguns testes de integração pré-definidos. 
 O objetivo do exercício foi realizar a implementação necessária, para fazer com que os testes passem. 
