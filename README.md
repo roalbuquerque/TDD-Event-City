@@ -42,3 +42,8 @@ git clone git@github.com:roalbuquerque/TDD-Event-City.git
 # Autor
 
 Rafael de Oliveira Albuquerque
+
+📫 Você pode me encontrar aqui:
+<p align="left">
+  <a href="https://www.linkedin.com/in/rafaeloliveiraalbuquerque/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeloliveiraalbuquerque/" /></a>
